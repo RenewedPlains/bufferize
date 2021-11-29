@@ -1,0 +1,2 @@
+# bufferize
+Requires WordPress. 
